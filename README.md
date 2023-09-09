@@ -1,4 +1,4 @@
-# calculator_gui
+# linear regression
 
 ## :penguin: Linux :penguin:<br />
 
