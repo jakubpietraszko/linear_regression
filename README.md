@@ -14,9 +14,6 @@ In project root directory<br />
 python3 -m venv .venv
 ```
 
-reopen terminal
-or 
-
 ```
 source .venv/bin/activate
 ```
